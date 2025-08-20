@@ -79,11 +79,11 @@ const ContactPage = () => {
                   respond within 24 hours.
                 </p>
                 <a
-                  href='mailto:support@expensetracker-ai.com'
+                  href='nisalmallawarachchi@gmail.com'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base break-all sm:break-normal'
                 >
                   <span className='hidden sm:inline'>
-                    support@expensetracker-ai.com
+                    nisalmallawarachchi@gmail.com
                   </span>
                   <span className='sm:hidden'>Email Us</span>
                   <span className='text-sm'>→</span>
@@ -105,10 +105,10 @@ const ContactPage = () => {
                   with urgent matters.
                 </p>
                 <a
-                  href='tel:+11234567890'
+                  href='tel:+94741343437'
                   className='inline-flex items-center gap-2 text-emerald-600 dark:text-emerald-400 hover:text-emerald-700 dark:hover:text-emerald-300 font-medium transition-colors duration-200 text-sm sm:text-base'
                 >
-                  +1 (123) 456-7890
+                  +94 74 134 3437
                   <span className='text-sm'>→</span>
                 </a>
               </div>
@@ -167,11 +167,11 @@ const ContactPage = () => {
               <div className='space-y-2 text-sm sm:text-base text-gray-600 dark:text-gray-400'>
                 <div className='flex justify-between'>
                   <span>Monday - Friday:</span>
-                  <span className='font-medium'>9:00 AM - 6:00 PM PST</span>
+                  <span className='font-medium'>9:00 AM - 6:00 PM (GMT+5:30)</span>
                 </div>
                 <div className='flex justify-between'>
                   <span>Saturday:</span>
-                  <span className='font-medium'>10:00 AM - 4:00 PM PST</span>
+                  <span className='font-medium'>10:00 AM - 4:00 PM (GMT+5:30)</span>
                 </div>
                 <div className='flex justify-between'>
                   <span>Sunday:</span>
